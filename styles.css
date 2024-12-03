@@ -1,0 +1,30 @@
+
+.container{   
+     margin: 150px auto;
+}
+
+.rectangle {
+    border: 1px solid black;
+    text-align: center;
+    /* padding: 20px; */
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; 
+}
+
+.a { background-color: #235dd9; }
+.b { background-color: #3a73f7;
+border-bottom: none;
+border-top: none;
+border: 1px solid #3a73f7; }
+.c { background-color: #7296f3; }
+.d { background-color: #a36fd4; }
+.e { background-color: #ee5af6; }
+.f { background-color: #d4427f; }
+.g { background-color: #fe95d8; }
+.h { background-color: #e34ee0; }
+.i { background-color: #c65bde; } 
+
+.o { background-color: #3a73f7;}
