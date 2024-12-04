@@ -1,4 +1,11 @@
 
+body{
+    background: rgb(164 166 166);
+    background: linear-gradient(0deg, rgba(157, 239, 241, 1) 0%, rgba(144, 241, 239, 1) 26%, rgb(236 236 236) 48%, rgba(184, 230, 226, 1) 79%, rgba(203, 246, 242, 1) 100%);
+}
+
+.bg-light{ background: #c0ede9 !important
+}
 .container{   
      margin: 150px auto;
 }
