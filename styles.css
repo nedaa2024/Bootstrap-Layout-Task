@@ -28,3 +28,10 @@ border: 1px solid #3a73f7; }
 .i { background-color: #c65bde; } 
 
 .o { background-color: #3a73f7;}
+
+
+@media (max-width: 768px) { 
+    .rectangle {
+        background-color: orange !important;
+    }
+}
